@@ -1,0 +1,7 @@
+[] Change bedsheet
+[] Buy milk
+[] Wash clothes
+[] Take a shower
+[x] Write the paper
+[x] Get groceries
+[x] Finish homework
